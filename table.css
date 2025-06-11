@@ -1,0 +1,15 @@
+td, th{
+    border: 1px solid black;
+}
+.yellow{
+    background-color: rgb(255, 255, 202);
+
+}
+.purple{
+    background-color: rgb(209, 205, 241);
+
+}
+.green{
+    background-color: rgb(212, 247, 212);
+
+}
